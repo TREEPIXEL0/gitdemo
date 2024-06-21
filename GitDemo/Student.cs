@@ -9,5 +9,6 @@ namespace GitDemo
     internal class Student
     {
         public int Id { get; set; }
+        public int Count { get; set; }
     }
 }
